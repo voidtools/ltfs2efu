@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{09ADC27E-5F59-429a-B34E-7E2F7DBE8908}") = "ltfs2efu", "ltfs2efu.vcproj", "{B270A44B-A638-4059-9C0A-19AE3769EFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B270A44B-A638-4059-9C0A-19AE3769EFAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B270A44B-A638-4059-9C0A-19AE3769EFAE}.Debug|Win32.Build.0 = Debug|Win32
+		{B270A44B-A638-4059-9C0A-19AE3769EFAE}.Debug|x64.ActiveCfg = Debug|x64
+		{B270A44B-A638-4059-9C0A-19AE3769EFAE}.Debug|x64.Build.0 = Debug|x64
+		{B270A44B-A638-4059-9C0A-19AE3769EFAE}.Release|Win32.ActiveCfg = Release|Win32
+		{B270A44B-A638-4059-9C0A-19AE3769EFAE}.Release|Win32.Build.0 = Release|Win32
+		{B270A44B-A638-4059-9C0A-19AE3769EFAE}.Release|x64.ActiveCfg = Release|x64
+		{B270A44B-A638-4059-9C0A-19AE3769EFAE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
