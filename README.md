@@ -3,6 +3,8 @@ Convert LTFS XML to EFU
 Download
 --------
 
+https://github.com/voidtools/ltfs2efu/releases
+
 Usage
 -----
 
