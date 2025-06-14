@@ -6,4 +6,4 @@ Download
 Usage
 -----
 
-<pre>ltfs2efu.exe <in.xml> <out.efu></pre>
+<pre>ltfs2efu.exe &lt;in.xml&gt; &lt;out.efu&gt;</pre>
